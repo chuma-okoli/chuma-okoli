@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chuma-okoli
 - 👀 I’m interested in software development (web)
-- 🌱 Willing to add more knowledge
+- 🌱 Ever ready to learn new things, welcome all willing to guide me to get it done.
 - 💞️ I’m looking to collaborate on Web development.
 - 📫 Reach me on chuma.okoli@hotmail.com
 
