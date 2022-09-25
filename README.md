@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chuma-okoli
-- 👀 I’m interested in software development (web)
+- 👀 I’m interested in software development 
 - 🌱 Willing to add more knowledge
 - 💞️ I’m looking to collaborate on Web development.
 - 📫 Reach me on chuma.okoli@hotmail.com
